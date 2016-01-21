@@ -1,3 +1,5 @@
+//Primer comentario, Lopez Fonseca Lidia Paola
+
 #include stdio.h
  
 int main(void) {
