@@ -1,0 +1,11 @@
+Para ignorar archivos se debe primero realizar el comando
+
+$touch .gitignore
+
+una vez hecho esto podemos agregar las extensiones o 
+archivos en especifico que deseamos sean ignorados, por ejemplo los archivos .c
+
+$cat .gitignore
+*.c
+
+y ahora todos los archivos .c seran ignorados
