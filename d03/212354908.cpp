@@ -4,7 +4,7 @@
  
 int main(void) {
  
-	printf(nHOLA MUNDO.n);
+	printf(nHOLA MUNDO.n);//No compila XD, Zarate Rodriguez Flor Edith
  
 	return 0;
 }
