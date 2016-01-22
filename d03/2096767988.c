@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> /*Saludos soy tu compañero Lozoya Rodriguez Oscar Ivan */
 
 int main()
 {
