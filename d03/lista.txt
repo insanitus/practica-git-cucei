@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+207546386 Blas Osvaldo Gonzalez Aceves
+212354843 Lopez Fonseca Lidia Paola
+=======
+209658653	Lazcano Origel Mauricio Gerardo
+212354843	Lopez Fonseca Lidia Paola
+209600531	Zarate Rodriguez Flor Edith
+209483632	Vela Larios Noel
+>>>>>>> 46a8d7180f0e3f1e1ecbabc3c7f9c206f0180b2a
